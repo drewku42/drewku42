@@ -1,8 +1,16 @@
-# 💻 Drew Meyer 🤖
-**`AI Engineer (Researcher/Developer/Hobbyist)`**
+# Drew Meyer
+**`🧑‍💻 Software Developer | 📚 Student | Researcher`**
 
-![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewku42&hide=contribs,prs)
+<p align="left">
+  <a href="https://www.linkedin.com/in/drewmeyer28/">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.sh$
+  <a href="(https://www.youtube.com/@Drew_Meyer)">
+    <img alt="youtube views" title="YouTube" src="https://custom-icon-badges.de$
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drewku42)](https://git.io/streak-stats)
-
-I am actively seeking job opportunities in the AI/ML/Tech space and I plan to graduate in May 2025. If you want to learn more about my professional, academic and leadership experiences check out my resume in this repo. If you would like to get to know me, send me an email or connect with me on LinkedIn. Thanks for stopping by!
+[![Making coding a daily habit](https://streak-stats.demolab.com/?user=drewku42&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
+    
+<details>
+  <summary> 🧘 Get To Know Me 🧘 </summary>
+  Hi, thanks for checking out my GitHub! I'm Drew, a computer science student at the University of Kansas. I graduate in May and will pursue my master's in CS. I am interested in full stack development, artificial intelligence and machine learning. I am interested in deploying AI models and using them in software. In my free time, I enjoy playing recreational basketball, playing video games, and following the stock market. Please feel free to connect with me and check out my YouTube channel. 🤙
+</details>
