@@ -1,6 +1,8 @@
 # Drew Meyer
 **`🧑‍💻 Software Developer | 📚 Student | 👨‍🔬 Researcher | 🏴‍☠️ One Piece Fan`**
 
+<img alt="youtube views" title="YouTube" src="https://www.youtube.com/@Drew_Meyer" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0yYApt8xUN6l4FwnLLoirA?color=%23E05D44&amp;label=VIEWS&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" style="max-width: 100%;">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sharing+my+progression+through+code)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=drewku42&theme=shadow-blue)](https://git.io/streak-stats)
