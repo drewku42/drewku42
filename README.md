@@ -14,3 +14,8 @@
   <summary> 🧘 Get To Know Me 🧘 </summary>
   Hi, thanks for checking out my GitHub! I'm Drew, a computer science student at the University of Kansas. I graduate in May and will pursue my master's in CS. I am interested in full stack development, artificial intelligence and machine learning. I am interested in deploying AI models and using them in software. In my free time, I enjoy playing recreational basketball, playing video games, and following the stock market. Please feel free to connect with me and check out my YouTube channel. 🤙
 </details>
+
+#### Reach Out
+<a href="mailto:drewmeyer28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=black" />
+</a>
