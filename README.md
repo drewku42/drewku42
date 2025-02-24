@@ -1,7 +1,7 @@
 # 💻 Drew Meyer 🤖
 **`AI Engineer (Researcher/Developer/Hobbyist)`**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewku42&hide=contribs,prs)
 
 Hey, thanks for checking out my GitHub. Interested in Computer Vision and Machine Learning.
 
