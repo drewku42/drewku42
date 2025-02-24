@@ -3,9 +3,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/drewmeyer28/">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.sh$
-  <a href="(https://www.youtube.com/@Drew_Meyer)">
-    <img alt="youtube views" title="YouTube" src="https://custom-icon-badges.de$
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=&logo=person-add&logoColor=white"/></a>
+  <img alt="youtube views" title="YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0yYApt8xUN6l4FwnLLoirA?color=%23E05D44&label=VIEWS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 </p>
 
 [![Making coding a daily habit](https://streak-stats.demolab.com/?user=drewku42&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
