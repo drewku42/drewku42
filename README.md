@@ -1,7 +1,17 @@
 # 💻 Drew Meyer 🤖
 **`AI Engineer (Researcher/Developer/Hobbyist)`**
 
-![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewku42&hide=contribs,prs)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 Hey, thanks for checking out my GitHub. Interested in Computer Vision and Machine Learning.
 
