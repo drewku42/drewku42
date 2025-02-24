@@ -1,5 +1,5 @@
 # Drew Meyer
-**`🧑‍💻 Software Developer | 📚 Student | Researcher`**
+**`🧑‍💻 Software Developer | 📚 Student | 👨‍🔬 Researcher | 🏴‍☠️ One Piece Fan`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sharing+my+progression+in+code)](https://git.io/typing-svg)
 
