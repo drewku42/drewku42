@@ -6,7 +6,7 @@
   Hi, thanks for checking out my GitHub! I'm Drew, a computer science student at the University of Kansas. I graduate in May and will pursue my master's in CS. I am interested in full stack development, artificial intelligence and machine learning. I am interested in deploying AI models and using them in software. In my free time, I enjoy playing recreational basketball, playing video games, and following the stock market. Please feel free to connect with me and check out my YouTube channel. 🤙
 </details>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=drewku42&theme=shadow-blue&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=drewku42&theme=shadow-blue)](https://git.io/streak-stats)
 
 
 #### Reach Out
