@@ -17,5 +17,5 @@
 
 #### Reach Out
 <a href="mailto:drewmeyer28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=black" />
+  <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
