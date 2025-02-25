@@ -1,6 +1,8 @@
 # Drew Meyer
 **`🧑‍💻 Software Developer | 📚 Student | 👨‍🔬 Researcher | 🏴‍☠️ One Piece Fan`**
 
+![Static Badge](https://img.shields.io/badge/first_part-second-part?style=plastic&logo=xbox&link=https%3A%2F%2Fwww.xbox.com)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sharing+my+progression+through+code)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=drewku42&theme=shadow-blue)](https://git.io/streak-stats)
