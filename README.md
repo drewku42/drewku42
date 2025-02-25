@@ -1,7 +1,7 @@
 # Drew Meyer
 **`🧑‍💻 Software Developer | 📚 Student | 👨‍🔬 Researcher | 🏴‍☠️ One Piece Fan`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drewmeyer28) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Drew_Meyer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drewmeyer28@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/drewmeyer28) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Drew_Meyer/videos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drewmeyer28@gmail.com) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sharing+my+progression+through+code)](https://git.io/typing-svg)
 
