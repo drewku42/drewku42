@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sharing+my+progression+through+code)](https://git.io/typing-svg)
 
 ## About Me:
-Hi, thanks for checking out my GitHub! I'm Drew, a computer science student at the University of Kansas. I graduate in May and will pursue my master's in CS. I am interested in full stack development, artificial intelligence and machine learning. I am interested in deploying AI models and using them in software. In my free time, I enjoy playing recreational basketball, following the stock market, and watching my favorite show One Piece. Please feel free to connect with me and check out my YouTube channel.
+Hi, thanks for checking out my GitHub! I'm Drew, a computer science student at the University of Kansas, planning to graduate in May of this year. I am interested in full stack development, artificial intelligence and machine learning. I am interested in deploying AI models and using them in software. In my free time, I enjoy playing recreational basketball, following the stock market, and watching my favorite show One Piece. Please feel free to connect with me and check out my YouTube channel.
 
 ## My Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=drewku42&theme=dark&hide_border=false)<br/>
