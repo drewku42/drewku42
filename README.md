@@ -8,7 +8,6 @@
 ## About Me:
 Hi, thanks for checking out my GitHub! I'm Drew, a computer science student at the University of Kansas, planning to graduate in May of this year. I am interested in full stack development, artificial intelligence and machine learning. I am interested in deploying AI models and using them in software. In my free time, I enjoy playing recreational basketball, following the stock market, and watching my favorite show One Piece. Please feel free to connect with me and check out my YouTube channel.
 
-## My Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=drewku42&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## My Favorite Tech:
